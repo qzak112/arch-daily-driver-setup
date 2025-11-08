@@ -23,6 +23,7 @@ sudo ./install.sh
 - Fresh Arch Linux installation
 - Internet connection
 - Non-root user with sudo privileges
+- Package 'git' and 'base-devel' should be installed.
 
 ## Packages Installed
 ### Core
