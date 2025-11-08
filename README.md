@@ -1,5 +1,6 @@
 # stuff 
-> WARNING: PROJECT STATUS : ** SUCCESS! ** (Tested on actual hardware)
+> WARNING: PROJECT STATUS : SUCCESS! (Tested on actual hardware)
+
 > This script is currently a school project. It is designed to run ONLY on a fresh Arch Linux base installation. Do not run this on an existing production environment, as it performs destructive actions.
 
 # Arch Linux Automated Setup Script
