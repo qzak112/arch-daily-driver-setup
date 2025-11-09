@@ -52,3 +52,11 @@ MIT
 
 ## Author
 Made by a high school student that accidentally discovered linux 2 months ago.
+
+### Screenshots
+
+![stuff](screenshot/Capture.PNG)
+![stuff](screenshot/1.PNG)
+![stuff](screenshot/2.PNG)
+![stuff](screenshot/3.PNG)
+![stuff](screenshot/4.PNG)
