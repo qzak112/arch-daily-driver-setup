@@ -8,7 +8,7 @@
 Automated installation script for Arch Linux with XFCE desktop environment.
 
 ## Features
-- Core package installation (git, vim, neovim, fish, firefox, etc.)
+- Core package installation (git, xorg, vim, neovim, fish, firefox, etc.)
 - XFCE4 desktop environment
 - AUR helper (yay) with Discord & Spotify
 - Automatic user configuration
