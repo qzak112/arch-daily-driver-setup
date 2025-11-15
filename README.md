@@ -16,7 +16,7 @@ Automated installation script for Arch Linux with XFCE desktop environment.
 
 ## Usage
 ```bash
-git clone https://github.com/qzak112/stuff.git
+git clone https://github.com/qzak112/what.git
 cd git
 chmod +x install.sh
 sudo ./install.sh
